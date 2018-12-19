@@ -10,10 +10,10 @@
     </parent>
     <groupId>br.bsb.diego</groupId>
     <artifactId>springbatch</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>springbatch</name>
     <description>Projetos com Spring Batch e Spring Boot</description>
 
+    <version>1.0.0</version>
     <properties>
         <java.version>1.8</java.version>
     </properties>
