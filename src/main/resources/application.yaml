@@ -1,7 +1,7 @@
 spring:
   datasource:
     data-username: sa
-    url: jdbc:h2:~/test;DB_CLOSE_ON_EXIT=FALSE;DATABASE_TO_UPPER=FALSE;INIT=CREATE SCHEMA IF NOT EXISTS public
+    url: jdbc:h2:~/TEST;DB_CLOSE_ON_EXIT=FALSE;DATABASE_TO_UPPER=TRUE;INIT=CREATE SCHEMA IF NOT EXISTS PUBLIC
 
 logging:
   level:
